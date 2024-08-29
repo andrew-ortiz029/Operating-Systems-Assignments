@@ -1,0 +1,13 @@
+---
+:id: 247854121
+:submitters:
+- :name: Andrew Ortiz
+  :email: ortiz504@csusm.edu
+- :name: Mitchell Curtis
+  :email: curti052@csusm.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2024-04-18 17:00:51.927512000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2024-04-18 10:00:51.927512000 Z
+:status: processed
